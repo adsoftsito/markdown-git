@@ -1,11 +1,10 @@
 ---
-title: "Sales Forecast"
+title: "Sales by Category"
 ---
 ```{r setup, include=FALSE}
 library(plotly)
 ```
 
-### Sales by Category
 
 ```{r, fig.keep='none'}
 trace_0 <- rnorm(100, mean = 5)

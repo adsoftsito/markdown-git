@@ -3,7 +3,7 @@ output_dir: docs
 navbar:
   title: "Sales"
   left:
-    - text: "Home"
+    - text: "Forecast"
       href: index.html
-    - text: "About"
+    - text: "Category"
       href: about.html
