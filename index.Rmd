@@ -1,5 +1,5 @@
 ---
-title: "Sales Forecast"
+title: "Sales Forecast, Adolfo Centeno"
 ---
 
 ```{r setup, include=FALSE}
